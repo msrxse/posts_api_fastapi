@@ -1,3 +1,5 @@
+# posts_api_fastapi
+
 # Setup
 
 ## Set venv
@@ -24,7 +26,7 @@ Then install fastapi:
 pip install "fastapi[standard]"
 ```
 
-## Start server
+## To run s erver
 
 ```
 fastapi dev main.py
