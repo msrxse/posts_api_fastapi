@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "terminal.integrated.tabs.enabled": false,
+    "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+  }
+}
