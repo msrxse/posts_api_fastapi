@@ -29,5 +29,5 @@ pip install "fastapi[standard]"
 ## To run s erver
 
 ```
-fastapi dev main.py
+fastapi dev app/main.py
 ```
